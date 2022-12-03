@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 void add(int a,int b, int c,int n)
-//void sub(int a,int b, int c,int n)
 {
 	cout<<"Enter the number A \n";
 	cin>>a;
